@@ -41,9 +41,9 @@ namespace CryEngineProjectConverter
             input = Regex.Replace(input, pattern, replacement);
 
             
-            pattern = "()<ProjectGuid.+?<.+";
-            replacement = "<ProjectGuid>7B3F1234-1CFE-4CCF-B1CB-12345F8606F1</ProjectGuid>";
-            input = Regex.Replace(input, pattern, replacement);
+            //pattern = "()<ProjectGuid.+?<.+";
+            //replacement = "<ProjectGuid>7B3F1234-1CFE-4CCF-B1CB-12345F8606F1</ProjectGuid>";
+            //input = Regex.Replace(input, pattern, replacement);
 
 #if DEBUG
             Console.WriteLine(input);
