@@ -2,6 +2,8 @@
 
 Small Program which converts cryengine 5.4 projects into a compatible format for visual studio 2017.
 
+MADE A BACKUP OF THE PROJECT, BECAUSE THE CONVERTER CHANGE THE .sln AND .csproj FILE.
+
 ### user guide
 
 Step-By-Step Conversion:
