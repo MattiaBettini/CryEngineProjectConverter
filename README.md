@@ -1,5 +1,7 @@
+# Don't use, Crytek official visual studio integration is coming with CryEngine 5.5
 # CryEngine 5.4 Project Converter For C# Project
 
+at your own risk, I do not take any responsibility of any type
 Small Program which convert the cryengine 5.4 C# project into a compatible format for visual studio 2017.
 
 MAKE A BACKUP OF THE PROJECT, BECAUSE THE CONVERTER CHANGE THE .sln AND .csproj FILE.
